@@ -1,0 +1,43 @@
+weightin
+========
+Shows weight of the pinged member, if no member is pinged it will show the weight of the author
+
+Parameters
+----------
+**Member [optional]**
+
+The member to show weight of if member is not mentioned it shows your weight
+
+
+
+
+**Layout:**
+::
+    -weightin [Member]
+
+Permissions
+-----------
+**Bot**
+::
+    Embed Links
+    Send Messages
+
+**Author**
+::
+    Send Messages
+
+Cooldown
+--------
+10 Seconds - Per User
+
+Aliases
+-------
+1. Weight
+2. WI
+
+
+Example Usage
+-------------
+::
+
+"image_here"
